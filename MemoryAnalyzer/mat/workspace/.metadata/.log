@@ -1,0 +1,18 @@
+!SESSION 2018-06-26 14:28:32.188 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.8.0_162
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=zh_CN
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY org.eclipse.mat.ui 1 0 2018-06-26 14:29:15.359
+!MESSAGE Detected compressed references, because with uncompressed 64-bit references the array at 0xfec0ba80 would overlap the array at 0xfec0ba60
+
+!ENTRY org.eclipse.mat.ui 1 0 2018-06-26 14:29:15.479
+!MESSAGE Wrote threads call stacks to F:\JavaLearn\java_pid8480.threads
+
+!ENTRY org.eclipse.mat.ui 1 0 2018-06-26 14:29:15.547
+!MESSAGE Heap F:\JavaLearn\java_pid8480.hprof contains 821,342 objects
+
+!ENTRY org.eclipse.mat.ui 1 0 2018-06-26 14:29:16.401
+!MESSAGE Removed 988 unreachable objects using 44,688 bytes
