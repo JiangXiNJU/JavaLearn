@@ -1,4 +1,4 @@
-package JVM.multithreads;
+package multithreads;
 /**
  * 6、线程间的协作
  */
