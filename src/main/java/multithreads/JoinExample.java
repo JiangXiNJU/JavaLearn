@@ -42,7 +42,9 @@ public class JoinExample {
         A a = new A();
         B b = new B(a);
         b.start();
-        a.start();
+//        a.start();
+//        b.start();
+//        a.start();
 
     }
     public static void main(String[] args) {
